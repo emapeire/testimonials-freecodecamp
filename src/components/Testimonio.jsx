@@ -20,4 +20,3 @@ class Testimonio extends React.Component {
 }
 
 export default Testimonio;
-
